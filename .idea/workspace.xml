@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b358e6-184c-41c4-aa82-4dc4d11db486" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Temple Of Glass/The Temple Of Glass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temple Of Glass/act/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temple Of Glass/hero/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temple Of Glass/monsters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temple Of Glass/potions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPG/acts/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPG/hero/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPG/itens/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Temple Of Glass/npc/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPG/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPG/mobs/__init__.py" beforeDir="false" />
-    </list>
+    <list default="true" id="86b358e6-184c-41c4-aa82-4dc4d11db486" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +60,11 @@
     "node.js.selected.package.jshint": ""
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\OneDrive\Área de Trabalho\PythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
