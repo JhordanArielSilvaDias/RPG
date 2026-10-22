@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b358e6-184c-41c4-aa82-4dc4d11db486" name="Changes" comment="pasta criada" />
+    <list default="true" id="86b358e6-184c-41c4-aa82-4dc4d11db486" name="Changes" comment="pasta criada">
+      <change beforePath="$PROJECT_DIR$/RPG/acts/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/RPG/acts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPG/hero/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/RPG/hero/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPG/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/RPG/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPG/mobs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/RPG/mobs/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
