@@ -1,3 +1,5 @@
+from acts import *
 from hero import Hero
+from mobs import *
 h = Hero('Jhordan')
-print(h.level)
+fight(h, Ogro())

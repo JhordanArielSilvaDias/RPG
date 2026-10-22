@@ -4,4 +4,4 @@ class Hero:
         self.xp = 0
         self.level = 1
         self.hp = 100
-        self.force = 10
+        self.damege = 10
