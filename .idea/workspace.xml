@@ -20,22 +20,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JhordanArielSilvaDias"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JhordanArielSilvaDias&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JhordanArielSilvaDias/RPG.git",
-    "accountId": "5182ec44-8ed6-41ef-ac3b-3b45df7e67dc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JhordanArielSilvaDias/RPG.git&quot;,
+    &quot;accountId&quot;: &quot;5182ec44-8ed6-41ef-ac3b-3b45df7e67dc&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3L418VSZLYv8vNVOOYAyaEmjxjE" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,7 +55,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Área de Trabalho/PythonProject",
+    "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Área de Trabalho/RPG",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": ""
   }
