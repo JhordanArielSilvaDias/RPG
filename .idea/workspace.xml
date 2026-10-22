@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b358e6-184c-41c4-aa82-4dc4d11db486" name="Changes" comment="pasta criada" />
+    <list default="true" id="86b358e6-184c-41c4-aa82-4dc4d11db486" name="Changes" comment="pasta criada">
+      <change afterPath="$PROJECT_DIR$/RPG/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPG/rpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/RPG/Acts/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +23,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JhordanArielSilvaDias"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JhordanArielSilvaDias/RPG.git",
+    "accountId": "5182ec44-8ed6-41ef-ac3b-3b45df7e67dc"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3L418VSZLYv8vNVOOYAyaEmjxjE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +55,9 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": ""
   }
 }]]></component>
   <component name="SharedIndexes">
